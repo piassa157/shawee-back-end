@@ -1,0 +1,17 @@
+{
+  "name": "shawee-back-end",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/piassa157/shawee-back-end.git",
+  "author": "Gabriel Gurgueiro Piassa <lindaum98@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start":"node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
